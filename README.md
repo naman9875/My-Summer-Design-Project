@@ -1,2 +1,2 @@
 # My-Summer-Design-Project
-It's a Image Captioning project.
+It's a Image Captioning project. 
